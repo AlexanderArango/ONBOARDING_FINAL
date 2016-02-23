@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sprint_1" verbose="1" parallel="tests" thread-count="6">
+	
+	<test name="ONB-37 Employer creates user account for the Onboarding Employer Portal " >
+		<classes>
+		    <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution" />
+		 </classes>
+	</test>
+	
+	<test name="ONB-38 Employer logs into the Onboarding Employer Portal - Firefox_Execution" >
+		<classes>
+			<class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution" />
+		</classes>
+	</test>
+	<test name="ONB-38 Employer logs into the Onboarding Employer Portal-Chrome_Execution" >
+		<classes>
+			<class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution" />
+		</classes>
+	</test>
+	<test name="ONB-38 Employer logs into the Onboarding Employer Portal-InternetExplorer_Execution" >
+		<classes>
+		    <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution" />
+		 </classes>
+	</test>
+	<test name="ONB-40 Employer forgets username-Chrome_Execution" >
+		<classes>
+		    <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution" />
+		 </classes>
+	</test>
+	<test name="ONB-42 Employer logs out of the Onboarding Employer Portal " >
+		<classes>
+		    <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution" />
+		 </classes>
+	</test>
+	
+	<test name="ONB-158 System logs Employer out of Onboarding Employer Portal after timeout " >
+		<classes>
+		    <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_158_Chrome_Execution" />
+		 </classes>
+	</test>
+</suite>

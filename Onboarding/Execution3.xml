@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [Sprint_1]" parallel="tests">
+  <test name="ONB-38 Employer logs into the Onboarding Employer Portal-Chrome_Execution(failed)" parallel="tests">
+    <classes>
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution">
+        <methods>
+          <include name="Before"/>
+          <include name="TC_ONB_38_007"/>
+          <include name="After"/>
+        </methods>
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution -->
+    </classes>
+  </test> <!-- ONB-38 Employer logs into the Onboarding Employer Portal-Chrome_Execution(failed) -->
+  <test name="ONB-38 Employer logs into the Onboarding Employer Portal - Firefox_Execution(failed)" parallel="tests">
+    <classes>
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution">
+        <methods>
+          <include name="Before"/>
+          <include name="TC_ONB_38_001"/>
+          <include name="After"/>
+        </methods>
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution -->
+    </classes>
+  </test> <!-- ONB-38 Employer logs into the Onboarding Employer Portal - Firefox_Execution(failed) -->
+  <test name="ONB-38 Employer logs into the Onboarding Employer Portal-InternetExplorer_Execution(failed)" parallel="tests">
+    <classes>
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution">
+        <methods>
+          <include name="After"/>
+          <include name="TC_ONB_38_006"/>
+          <include name="TC_ONB_38_005"/>
+          <include name="TC_ONB_38_004"/>
+          <include name="Before"/>
+        </methods>
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution -->
+       </classes>
+  </test> <!-- ONB-38 Employer logs into the Onboarding Employer Portal-InternetExplorer_Execution(failed) -->
+</suite> <!-- Failed suite [Sprint_1] -->

@@ -1,0 +1,3124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="3" total="83" passed="80">
+  <reporter-output>
+    <line>
+      <![CDATA[TC_ONB-38-001 - Username and password are  empty]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB_42_001 - Logout  of the Onboarding Employer Portal Header]]>
+    </line>
+    <line>
+      <![CDATA[call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37 - All fields requireds]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-40-002 - Send a not valid email addres_1]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-001 - Username and password are  empty]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[type valid user and valid password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-001 - Username and password are  empty]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[validation  message: Expected Email address is invalid]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:Username is required]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:Password is required]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:Username is required]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:Password is required]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-40-003 - Send a not valid email addres_2]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-001 - Welcome Page is available]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:Username is required]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:Password is required]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-002 - Username is  empty]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Logout button]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-002 - Username is  empty]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso  password]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso  password]]>
+    </line>
+    <line>
+      <![CDATA[validation  message: Expected Email address is invalid]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB_42_002 - Login  into Onboarding Employer Portal-User and Password 75 characteres]]>
+    </line>
+    <line>
+      <![CDATA[call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-40-004 - Send a not valid email addres_3]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-002 - Verify that the Placeholder Enter a username is shown]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[type valid user and valid password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-002 - Username is  empty]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso  password]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:Username is required]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-003 - Password is empty]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[validation  message: Expected Email address is invalid]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Logout button]]>
+    </line>
+    <line>
+      <![CDATA[Assert that the Placeholder Enter a username is shown]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:Username is required]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso  Username]]>
+    </line>
+    <line>
+      <![CDATA[type valid user and valid password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-40-005 - Send a not valid email addres_4]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-003 - Verify that the Placeholder Create a Password is shown]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:Username is required]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-003 - Password is empty]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso  Username]]>
+    </line>
+    <line>
+      <![CDATA[validate that username and role is shown]]>
+    </line>
+    <line>
+      <![CDATA[Assert that the Placeholder Create a Password is shown]]>
+    </line>
+    <line>
+      <![CDATA[validation  message: Expected Email address is invalid]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:Password is required]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB_42_003 - Username and password are  empty]]>
+    </line>
+    <line>
+      <![CDATA[call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-003 - Password is empty]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-004 - Username and Password  are not valid]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-007 - Verify that the Placeholder Re-Create a Password is shown]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso  Username]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-40-006 - Send a not valid email addres_5]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[type valid user and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso del user y password]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:Password is required]]>
+    </line>
+    <line>
+      <![CDATA[Assert that the Placeholder Create a Password is shown]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Logout button]]>
+    </line>
+    <line>
+      <![CDATA[validation  message: Expected Email address is invalid]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-005 - Verify that the Button called “next” is shown]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:Password is required]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-40-007 - Send a not valid email addres_6]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Login button]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-004 - Username and Password  are not valid]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[validate that username and role are required]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso del user y password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-005 - Username valid -Password  not valid]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[Assert that the Placeholder Create a Password is shown]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB_42_004 - Username is  empty]]>
+    </line>
+    <line>
+      <![CDATA[call driver]]>
+    </line>
+    <line>
+      <![CDATA[validation  message: Expected Email address is invalid]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-004 - Username and Password  are not valid]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso del user y password]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso del user y password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-007 - Verify that no more than 75 characters will be allow into the Username Field]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[type valid user and valid password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-40-008 - Send a not valid email addres_7]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Password entered is 75 Characters]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Logout button]]>
+    </line>
+    <line>
+      <![CDATA[validation  message: Expected Email address is invalid]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-006 - Username not valid -Password  valid]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-008 - Validate that Field Username will be required.]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[type a valid pasword]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Login button]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-40-009 - Send a not valid email addres_8]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate that username is required]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso del user y password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB_42_005 - Password is  empty]]>
+    </line>
+    <line>
+      <![CDATA[call driver]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Username will be required]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-005 - Username valid -Password  not valid]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso del user y password]]>
+    </line>
+    <line>
+      <![CDATA[validation  message: Expected Email address is invalid]]>
+    </line>
+    <line>
+      <![CDATA[type valid user and valid password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-009 - Verify that no more than 75 characters will be allow into the password Field]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-40-010 - Send a not valid email addres_9]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-007 - Username valid -Password  valid]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-005 - Username valid -Password  not valid]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Logout button]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Password entered is 75 Characters]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso del user y password]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso del user y password]]>
+    </line>
+    <line>
+      <![CDATA[validation  message: Expected Email address is invalid]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-010 - Validate that Field Password will be required.]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[type a valid username]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Login button]]>
+    </line>
+    <line>
+      <![CDATA[validate that Password is required]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-40-011 - Send a valid email addres]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB_42_006 - Username and Password  are not valid]]>
+    </line>
+    <line>
+      <![CDATA[call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate that username and role is shown]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-006 - Username not valid -Password  valid]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso del user y password]]>
+    </line>
+    <line>
+      <![CDATA[type valid user and valid password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-011 - Verify that no more than 75 characters will be allow into the Re enter Password Field]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-008 - Forgot Username]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate header message: Expected THANK YOU FOR YOUR REQUEST]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Logout button]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Re enter Password Field is 75 characters]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-40-012 - Send a valid email addres]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+    </line>
+    <line>
+      <![CDATA[type a not valid username and not valid password]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Login button]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-012 - Validate that Field Re enter Password will be required.]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate that a message is shown: We were not able to recognize your username/password.]]>
+    </line>
+    <line>
+      <![CDATA[validate header message: Expected FORGOT USERNAME]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-009 - Forgot Password]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB_42_007 - Username valid -Password  not valid]]>
+    </line>
+    <line>
+      <![CDATA[call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate header message: Expected THANK YOU FOR YOUR REQUEST]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Validate that Field Re enter Password will be required.]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+    </line>
+    <line>
+      <![CDATA[type valid user and valid password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-007 - Username valid -Password  valid]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-006 - Username not valid -Password  valid]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[validate header message: Expected LOGIN]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso del user y password]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso del user y password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-013 - Verify that no more than 20 characters will be allow into the Mobile Phone Field]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate header message: Expected FORGOT USERNAME]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Logout button]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB_158_001 - Verify that  system logs employer out  of Onboarding Employer Portal after timeout]]>
+    </line>
+    <line>
+      <![CDATA[call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-40-013 -  Cancel button funcionality]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Verify that no more than 20 characters will be allow into the Mobile Phone Field]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+    </line>
+    <line>
+      <![CDATA[validate that username and role is shown]]>
+    </line>
+    <line>
+      <![CDATA[type a valid username and not valid password]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Login button]]>
+    </line>
+    <line>
+      <![CDATA[type valid user and valid password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-014 - Validate that Field Mobile Phone will be required.]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate that a message is shown: We were not able to recognize your username/password.]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout]]>
+    </line>
+    <line>
+      <![CDATA[validate header message: Expected LOGIN]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB_42_008 - Username not valid -Password  valid]]>
+    </line>
+    <line>
+      <![CDATA[call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate that username and role is shown]]>
+    </line>
+    <line>
+      <![CDATA[type valid user and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Validate that Field Mobile Phone will be required.]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-015 - Verify that only numbers are allow into the field Mobile Phone ]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-008 - Forgot Username]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Logout button]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+    </line>
+    <line>
+      <![CDATA[validate header message: Expected FORGOT USERNAME]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Verify that only numbers are allow into the field Mobile Phone ]]>
+    </line>
+    <line>
+      <![CDATA[type a not valid username and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Login button]]>
+    </line>
+    <line>
+      <![CDATA[validate that a message is shown: We were not able to recognize your username/password.]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-016 - Validate that error message like “ Username is not unique, please update” will be shown when the username already exits ]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB_42_009 - Forgot Username]]>
+    </line>
+    <line>
+      <![CDATA[call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-009 - Forgot Password]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[type valid user and valid password]]>
+    </line>
+    <line>
+      <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-007 - Username valid -Password  valid]]>
+    </line>
+    <line>
+      <![CDATA[Llamada al driver]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Validate that error message like Username is not unique, please update will be shown when the username already exits]]>
+    </line>
+    <line>
+      <![CDATA[Ingreso del user y password]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Logout button]]>
+    </line>
+    <line>
+      <![CDATA[validate header message: Expected FORGOT USERNAME]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-018 - Validate that error message like “Confirmation Password is required” will be shown when the Re Enter Password field is empty]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Forgot Username link]]>
+    </line>
+    <line>
+      <![CDATA[validate that ser navigates to Forgot Username page]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Validate that error message Confirmation Password is required is shown]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB_42_010 - Forgot Password]]>
+    </line>
+    <line>
+      <![CDATA[call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-019 - Validate that error message like “Mobile phone is required” will be shown when the Mobile Phone field is empty]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[type valid user and valid password]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Validate that error message Confirmation Password is required is shown]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Logout button]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-021 - Verify that username can't be the same to the Email Address and will display this error message: “The username cannot be the same as your email address, please update”]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+    </line>
+    <line>
+      <![CDATA[Clic on Forgot Password link]]>
+    </line>
+    <line>
+      <![CDATA[validate that ser navigates to Forgot Password page]]>
+    </line>
+    <line>
+      <![CDATA[validate that username and role is shown]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-022 - Verify that system will display a error message when the password have less than 8 characters long]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate message header after logout]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-008 - Forgot Username]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate header message: Expected FORGOT USERNAME]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-023 - Verify that password don't be the same as the username who was written diplaying a error message]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-38-009 - Forgot Password]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[validate header message: Expected FORGOT USERNAME]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Verify that password don't be the same as the username who was written diplaying a error message]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-024 - Verify that error message will be displayed when no numbers are into the password ]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Verify that error message will be displayed when no numbers are into the password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-025 -Verify  that error message will be displayed when only one letter has been written within the password ]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Return to login page]]>
+    </line>
+    <line>
+      <![CDATA[validate messages header after logout]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Verify that Password must contain one symbol]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-026 - Verify that error message will be displayed when only one Upper Case letter has been written without any lower case within the password]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Verify that error message will be displayed when only one Upper Case letter has been written without any lower case within the password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-027 - Verify  that error message will be displayed when only one Lower Case letter has been written without any Upper case within the password]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Verify  that error message will be displayed when only one Lower Case letter has been written without any Upper case within the password]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-028 - Verify  that error message will be displayed when no special characters was written within the password field.]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Verify that error message will be displayed when no special characters was written within the password field.]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-029 - Verify when “Password” and “re-enter password” aren't the same, system will display a error message like Passwords do not match]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Verify when “Password” and “re-enter password” aren't the same, system will display a error message like Passwords do not match]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-030 - Verify that after click on the Cancel button all fields will be cleared]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Verify that after click on the Cancel button all fields will be cleared]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-032 - Verify that Next button will validate the number associated to the user account and display a error message if it's different]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Assert that Verify that Next button will validate the number associated to the user account and display a error message if it's different]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-033 - Verify that terms and conditions is displaying when the mobile number match with the user account]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Verify that terms and conditions is displaying when the mobile number match with the user account]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-035 - Verify that Agree button remains disabled until terms and conditions will be check]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Verify that I agree button is not selected after try to clic it]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-036 - Verify that print terms and conditions is available]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+    <line>
+      <![CDATA[Verify that print terms and conditions is displayed]]>
+    </line>
+    <line>
+      <![CDATA[TC_ONB-37-038 - Verify that System will navigate user to Onboarding Employer Portal Homepage]]>
+    </line>
+    <line>
+      <![CDATA[Call driver]]>
+    </line>
+  </reporter-output>
+  <suite name="Sprint_1" duration-ms="744937" started-at="2016-02-19T18:38:43Z" finished-at="2016-02-19T18:51:08Z">
+    <groups>
+    </groups>
+    <test name="ONB-38 Employer logs into the Onboarding Employer Portal-Chrome_Execution" duration-ms="271014" started-at="2016-02-19T18:38:43Z" finished-at="2016-02-19T18:43:14Z">
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution">
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="Before" is-config="true" duration-ms="6651" started-at="2016-02-19T13:38:43Z" finished-at="2016-02-19T13:38:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_001()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="TC_ONB_38_001" duration-ms="18286" started-at="2016-02-19T13:38:49Z" finished-at="2016-02-19T13:39:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-001 - Username and password are  empty]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:Username is required]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:Password is required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_001 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="After" is-config="true" duration-ms="1409" started-at="2016-02-19T13:39:08Z" finished-at="2016-02-19T13:39:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="Before" is-config="true" duration-ms="3236" started-at="2016-02-19T13:39:09Z" finished-at="2016-02-19T13:39:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_002()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="TC_ONB_38_002" duration-ms="25959" started-at="2016-02-19T13:39:12Z" finished-at="2016-02-19T13:39:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-002 - Username is  empty]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso  password]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:Username is required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_002 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="After" is-config="true" duration-ms="4211" started-at="2016-02-19T13:39:38Z" finished-at="2016-02-19T13:39:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="Before" is-config="true" duration-ms="5045" started-at="2016-02-19T13:39:43Z" finished-at="2016-02-19T13:39:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_003()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="TC_ONB_38_003" duration-ms="25945" started-at="2016-02-19T13:39:48Z" finished-at="2016-02-19T13:40:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-003 - Password is empty]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso  Username]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:Password is required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_003 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="After" is-config="true" duration-ms="2372" started-at="2016-02-19T13:40:14Z" finished-at="2016-02-19T13:40:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="Before" is-config="true" duration-ms="6480" started-at="2016-02-19T13:40:16Z" finished-at="2016-02-19T13:40:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_004()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="TC_ONB_38_004" duration-ms="29418" started-at="2016-02-19T13:40:22Z" finished-at="2016-02-19T13:40:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-004 - Username and Password  are not valid]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso del user y password]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_004 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="After" is-config="true" duration-ms="1954" started-at="2016-02-19T13:40:52Z" finished-at="2016-02-19T13:40:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="Before" is-config="true" duration-ms="3000" started-at="2016-02-19T13:40:54Z" finished-at="2016-02-19T13:40:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_005()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="TC_ONB_38_005" duration-ms="23025" started-at="2016-02-19T13:40:57Z" finished-at="2016-02-19T13:41:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-005 - Username valid -Password  not valid]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso del user y password]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_005 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="After" is-config="true" duration-ms="1245" started-at="2016-02-19T13:41:20Z" finished-at="2016-02-19T13:41:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="Before" is-config="true" duration-ms="3592" started-at="2016-02-19T13:41:21Z" finished-at="2016-02-19T13:41:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_006()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="TC_ONB_38_006" duration-ms="26435" started-at="2016-02-19T13:41:25Z" finished-at="2016-02-19T13:41:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-006 - Username not valid -Password  valid]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso del user y password]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_006 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="After" is-config="true" duration-ms="1200" started-at="2016-02-19T13:41:51Z" finished-at="2016-02-19T13:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="Before" is-config="true" duration-ms="3774" started-at="2016-02-19T13:41:52Z" finished-at="2016-02-19T13:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_007()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="TC_ONB_38_007" duration-ms="29833" started-at="2016-02-19T13:41:56Z" finished-at="2016-02-19T13:42:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-007 - Username valid -Password  valid]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso del user y password]]>
+            </line>
+            <line>
+              <![CDATA[validate that username and role is shown]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_007 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="After" is-config="true" duration-ms="2018" started-at="2016-02-19T13:42:26Z" finished-at="2016-02-19T13:42:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="Before" is-config="true" duration-ms="2432" started-at="2016-02-19T13:42:28Z" finished-at="2016-02-19T13:42:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_008()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="TC_ONB_38_008" duration-ms="20307" started-at="2016-02-19T13:42:30Z" finished-at="2016-02-19T13:42:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-008 - Forgot Username]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validate header message: Expected FORGOT USERNAME]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_008 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="After" is-config="true" duration-ms="1851" started-at="2016-02-19T13:42:51Z" finished-at="2016-02-19T13:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="Before" is-config="true" duration-ms="2568" started-at="2016-02-19T13:42:53Z" finished-at="2016-02-19T13:42:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_009()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="TC_ONB_38_009" duration-ms="16931" started-at="2016-02-19T13:42:55Z" finished-at="2016-02-19T13:43:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-009 - Forgot Password]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validate header message: Expected FORGOT USERNAME]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_009 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e]" name="After" is-config="true" duration-ms="1779" started-at="2016-02-19T13:43:12Z" finished-at="2016-02-19T13:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution -->
+    </test> <!-- ONB-38 Employer logs into the Onboarding Employer Portal-Chrome_Execution -->
+    <test name="ONB-40 Employer forgets username-Chrome_Execution" duration-ms="297522" started-at="2016-02-19T18:38:43Z" finished-at="2016-02-19T18:43:40Z">
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution">
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="Before" is-config="true" duration-ms="7080" started-at="2016-02-19T13:38:43Z" finished-at="2016-02-19T13:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_40_002()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="TC_ONB_40_002" duration-ms="16330" started-at="2016-02-19T13:38:50Z" finished-at="2016-02-19T13:39:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-40-002 - Send a not valid email addres_1]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validation  message: Expected Email address is invalid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_40_002 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="After" is-config="true" duration-ms="1779" started-at="2016-02-19T13:39:06Z" finished-at="2016-02-19T13:39:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="Before" is-config="true" duration-ms="2821" started-at="2016-02-19T13:39:08Z" finished-at="2016-02-19T13:39:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_40_003()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="TC_ONB_40_003" duration-ms="15850" started-at="2016-02-19T13:39:11Z" finished-at="2016-02-19T13:39:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-40-003 - Send a not valid email addres_2]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validation  message: Expected Email address is invalid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_40_003 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="After" is-config="true" duration-ms="1308" started-at="2016-02-19T13:39:27Z" finished-at="2016-02-19T13:39:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="Before" is-config="true" duration-ms="2155" started-at="2016-02-19T13:39:28Z" finished-at="2016-02-19T13:39:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_40_004()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="TC_ONB_40_004" duration-ms="22267" started-at="2016-02-19T13:39:30Z" finished-at="2016-02-19T13:39:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-40-004 - Send a not valid email addres_3]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validation  message: Expected Email address is invalid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_40_004 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="After" is-config="true" duration-ms="1255" started-at="2016-02-19T13:39:52Z" finished-at="2016-02-19T13:39:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="Before" is-config="true" duration-ms="4780" started-at="2016-02-19T13:39:54Z" finished-at="2016-02-19T13:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_40_005()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="TC_ONB_40_005" duration-ms="17779" started-at="2016-02-19T13:39:58Z" finished-at="2016-02-19T13:40:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-40-005 - Send a not valid email addres_4]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validation  message: Expected Email address is invalid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_40_005 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="After" is-config="true" duration-ms="2410" started-at="2016-02-19T13:40:16Z" finished-at="2016-02-19T13:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="Before" is-config="true" duration-ms="5538" started-at="2016-02-19T13:40:19Z" finished-at="2016-02-19T13:40:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_40_006()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="TC_ONB_40_006" duration-ms="20931" started-at="2016-02-19T13:40:24Z" finished-at="2016-02-19T13:40:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-40-006 - Send a not valid email addres_5]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validation  message: Expected Email address is invalid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_40_006 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="After" is-config="true" duration-ms="1333" started-at="2016-02-19T13:40:45Z" finished-at="2016-02-19T13:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="Before" is-config="true" duration-ms="2580" started-at="2016-02-19T13:40:46Z" finished-at="2016-02-19T13:40:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_40_007()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="TC_ONB_40_007" duration-ms="16189" started-at="2016-02-19T13:40:49Z" finished-at="2016-02-19T13:41:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-40-007 - Send a not valid email addres_6]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validation  message: Expected Email address is invalid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_40_007 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="After" is-config="true" duration-ms="1937" started-at="2016-02-19T13:41:05Z" finished-at="2016-02-19T13:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="Before" is-config="true" duration-ms="2781" started-at="2016-02-19T13:41:07Z" finished-at="2016-02-19T13:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_40_008()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="TC_ONB_40_008" duration-ms="14947" started-at="2016-02-19T13:41:10Z" finished-at="2016-02-19T13:41:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-40-008 - Send a not valid email addres_7]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validation  message: Expected Email address is invalid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_40_008 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="After" is-config="true" duration-ms="1560" started-at="2016-02-19T13:41:25Z" finished-at="2016-02-19T13:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="Before" is-config="true" duration-ms="2836" started-at="2016-02-19T13:41:26Z" finished-at="2016-02-19T13:41:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_40_009()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="TC_ONB_40_009" duration-ms="19428" started-at="2016-02-19T13:41:29Z" finished-at="2016-02-19T13:41:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-40-009 - Send a not valid email addres_8]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validation  message: Expected Email address is invalid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_40_009 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="After" is-config="true" duration-ms="1975" started-at="2016-02-19T13:41:49Z" finished-at="2016-02-19T13:41:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="Before" is-config="true" duration-ms="2933" started-at="2016-02-19T13:41:51Z" finished-at="2016-02-19T13:41:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_40_010()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="TC_ONB_40_010" duration-ms="15436" started-at="2016-02-19T13:41:54Z" finished-at="2016-02-19T13:42:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-40-010 - Send a not valid email addres_9]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validation  message: Expected Email address is invalid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_40_010 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="After" is-config="true" duration-ms="1368" started-at="2016-02-19T13:42:09Z" finished-at="2016-02-19T13:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="Before" is-config="true" duration-ms="2410" started-at="2016-02-19T13:42:10Z" finished-at="2016-02-19T13:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_40_011()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="TC_ONB_40_011" duration-ms="22702" started-at="2016-02-19T13:42:13Z" finished-at="2016-02-19T13:42:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-40-011 - Send a valid email addres]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validate header message: Expected THANK YOU FOR YOUR REQUEST]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_40_011 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="After" is-config="true" duration-ms="5035" started-at="2016-02-19T13:42:36Z" finished-at="2016-02-19T13:42:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="Before" is-config="true" duration-ms="2514" started-at="2016-02-19T13:42:41Z" finished-at="2016-02-19T13:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_40_012()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="TC_ONB_40_012" duration-ms="28662" started-at="2016-02-19T13:42:43Z" finished-at="2016-02-19T13:43:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-40-012 - Send a valid email addres]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validate header message: Expected THANK YOU FOR YOUR REQUEST]]>
+            </line>
+            <line>
+              <![CDATA[validate header message: Expected LOGIN]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_40_012 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="After" is-config="true" duration-ms="1979" started-at="2016-02-19T13:43:12Z" finished-at="2016-02-19T13:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="Before" is-config="true" duration-ms="4255" started-at="2016-02-19T13:43:14Z" finished-at="2016-02-19T13:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_40_013()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="TC_ONB_40_013" duration-ms="20804" started-at="2016-02-19T13:43:18Z" finished-at="2016-02-19T13:43:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-40-013 -  Cancel button funcionality]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validate header message: Expected LOGIN]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_40_013 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution@506e6d5e]" name="After" is-config="true" duration-ms="1541" started-at="2016-02-19T13:43:39Z" finished-at="2016-02-19T13:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Chrome_Execution -->
+    </test> <!-- ONB-40 Employer forgets username-Chrome_Execution -->
+    <test name="ONB-38 Employer logs into the Onboarding Employer Portal - Firefox_Execution" duration-ms="353781" started-at="2016-02-19T18:38:43Z" finished-at="2016-02-19T18:44:37Z">
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution">
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="Before" is-config="true" duration-ms="18237" started-at="2016-02-19T13:38:43Z" finished-at="2016-02-19T13:39:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_001()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="TC_ONB_38_001" duration-ms="10450" started-at="2016-02-19T13:39:01Z" finished-at="2016-02-19T13:39:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-001 - Username and password are  empty]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:Username is required]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:Password is required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_001 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="After" is-config="true" duration-ms="1772" started-at="2016-02-19T13:39:11Z" finished-at="2016-02-19T13:39:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="Before" is-config="true" duration-ms="22850" started-at="2016-02-19T13:39:13Z" finished-at="2016-02-19T13:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_002()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="TC_ONB_38_002" duration-ms="17353" started-at="2016-02-19T13:39:36Z" finished-at="2016-02-19T13:39:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-002 - Username is  empty]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso  password]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:Username is required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_002 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="After" is-config="true" duration-ms="3143" started-at="2016-02-19T13:39:53Z" finished-at="2016-02-19T13:39:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="Before" is-config="true" duration-ms="25421" started-at="2016-02-19T13:39:57Z" finished-at="2016-02-19T13:40:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_003()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="TC_ONB_38_003" duration-ms="16263" started-at="2016-02-19T13:40:22Z" finished-at="2016-02-19T13:40:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-003 - Password is empty]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso  Username]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:Password is required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_003 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="After" is-config="true" duration-ms="1765" started-at="2016-02-19T13:40:38Z" finished-at="2016-02-19T13:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="Before" is-config="true" duration-ms="22784" started-at="2016-02-19T13:40:40Z" finished-at="2016-02-19T13:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_004()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="TC_ONB_38_004" duration-ms="15489" started-at="2016-02-19T13:41:03Z" finished-at="2016-02-19T13:41:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-004 - Username and Password  are not valid]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso del user y password]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_004 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="After" is-config="true" duration-ms="1487" started-at="2016-02-19T13:41:18Z" finished-at="2016-02-19T13:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="Before" is-config="true" duration-ms="24917" started-at="2016-02-19T13:41:20Z" finished-at="2016-02-19T13:41:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_005()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="TC_ONB_38_005" duration-ms="15464" started-at="2016-02-19T13:41:45Z" finished-at="2016-02-19T13:42:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-005 - Username valid -Password  not valid]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso del user y password]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_005 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="After" is-config="true" duration-ms="2247" started-at="2016-02-19T13:42:00Z" finished-at="2016-02-19T13:42:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="Before" is-config="true" duration-ms="22823" started-at="2016-02-19T13:42:02Z" finished-at="2016-02-19T13:42:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_006()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="TC_ONB_38_006" duration-ms="19373" started-at="2016-02-19T13:42:25Z" finished-at="2016-02-19T13:42:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-006 - Username not valid -Password  valid]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso del user y password]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_006 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="After" is-config="true" duration-ms="1246" started-at="2016-02-19T13:42:45Z" finished-at="2016-02-19T13:42:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="Before" is-config="true" duration-ms="19863" started-at="2016-02-19T13:42:46Z" finished-at="2016-02-19T13:43:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_007()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="TC_ONB_38_007" duration-ms="24530" started-at="2016-02-19T13:43:06Z" finished-at="2016-02-19T13:43:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-007 - Username valid -Password  valid]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso del user y password]]>
+            </line>
+            <line>
+              <![CDATA[validate that username and role is shown]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_007 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="After" is-config="true" duration-ms="1726" started-at="2016-02-19T13:43:30Z" finished-at="2016-02-19T13:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="Before" is-config="true" duration-ms="22017" started-at="2016-02-19T13:43:32Z" finished-at="2016-02-19T13:43:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_008()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="TC_ONB_38_008" duration-ms="10303" started-at="2016-02-19T13:43:54Z" finished-at="2016-02-19T13:44:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-008 - Forgot Username]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validate header message: Expected FORGOT USERNAME]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_008 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="After" is-config="true" duration-ms="1190" started-at="2016-02-19T13:44:04Z" finished-at="2016-02-19T13:44:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="Before" is-config="true" duration-ms="15892" started-at="2016-02-19T13:44:06Z" finished-at="2016-02-19T13:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_009()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="TC_ONB_38_009" duration-ms="13766" started-at="2016-02-19T13:44:21Z" finished-at="2016-02-19T13:44:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-009 - Forgot Password]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validate header message: Expected FORGOT USERNAME]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_009 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution@34ce8af7]" name="After" is-config="true" duration-ms="1391" started-at="2016-02-19T13:44:35Z" finished-at="2016-02-19T13:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution -->
+    </test> <!-- ONB-38 Employer logs into the Onboarding Employer Portal - Firefox_Execution -->
+    <test name="ONB-42 Employer logs out of the Onboarding Employer Portal " duration-ms="401262" started-at="2016-02-19T18:38:43Z" finished-at="2016-02-19T18:45:24Z">
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution">
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="Before" is-config="true" duration-ms="6997" started-at="2016-02-19T13:38:43Z" finished-at="2016-02-19T13:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_42_001()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="TC_ONB_42_001" duration-ms="31845" started-at="2016-02-19T13:38:50Z" finished-at="2016-02-19T13:39:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB_42_001 - Logout  of the Onboarding Employer Portal Header]]>
+            </line>
+            <line>
+              <![CDATA[call driver]]>
+            </line>
+            <line>
+              <![CDATA[type valid user and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Logout button]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_42_001 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="After" is-config="true" duration-ms="1316" started-at="2016-02-19T13:39:22Z" finished-at="2016-02-19T13:39:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="Before" is-config="true" duration-ms="2670" started-at="2016-02-19T13:39:23Z" finished-at="2016-02-19T13:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="FAIL" signature="TC_ONB_42_002()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="TC_ONB_42_002" duration-ms="44403" started-at="2016-02-19T13:39:26Z" finished-at="2016-02-19T13:40:10Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"html/body/div[1]/div/md-content/header/md-toolbar/section/span"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 22 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'CO-IT00576', ip: '10.132.11.3', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\OMAR~1.MEN\AppData\Local\Temp\scoped_dir8588_24693}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 070104e2b15e40c580bc59b03dde9656
+*** Element info: {Using=xpath, value=html/body/div[1]/div/md-content/header/md-toolbar/section/span}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"html/body/div[1]/div/md-content/header/md-toolbar/section/span"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 22 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'CO-IT00576', ip: '10.132.11.3', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\OMAR~1.MEN\AppData\Local\Temp\scoped_dir8588_24693}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 070104e2b15e40c580bc59b03dde9656
+*** Element info: {Using=xpath, value=html/body/div[1]/div/md-content/header/md-toolbar/section/span}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:647)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:490)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:345)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy6.getText(Unknown Source)
+	at com.maestrohealth.Onboarding.pages.onb_38_Employer_login.Login_successful.get_username_role(Login_successful.java:17)
+	at com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution.TC_ONB_42_002(ONB_42_Chrome_Execution.java:84)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:38)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:391)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB_42_002 - Login  into Onboarding Employer Portal-User and Password 75 characteres]]>
+            </line>
+            <line>
+              <![CDATA[call driver]]>
+            </line>
+            <line>
+              <![CDATA[type valid user and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Logout button]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+            </line>
+            <line>
+              <![CDATA[type valid user and valid password]]>
+            </line>
+            <line>
+              <![CDATA[validate that username and role is shown]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_42_002 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="After" is-config="true" duration-ms="2261" started-at="2016-02-19T13:40:10Z" finished-at="2016-02-19T13:40:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="Before" is-config="true" duration-ms="3659" started-at="2016-02-19T13:40:12Z" finished-at="2016-02-19T13:40:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_42_003()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="TC_ONB_42_003" duration-ms="38817" started-at="2016-02-19T13:40:16Z" finished-at="2016-02-19T13:40:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB_42_003 - Username and password are  empty]]>
+            </line>
+            <line>
+              <![CDATA[call driver]]>
+            </line>
+            <line>
+              <![CDATA[type valid user and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Logout button]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Login button]]>
+            </line>
+            <line>
+              <![CDATA[validate that username and role are required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_42_003 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="After" is-config="true" duration-ms="2098" started-at="2016-02-19T13:40:55Z" finished-at="2016-02-19T13:40:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="Before" is-config="true" duration-ms="2435" started-at="2016-02-19T13:40:57Z" finished-at="2016-02-19T13:40:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_42_004()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="TC_ONB_42_004" duration-ms="35100" started-at="2016-02-19T13:40:59Z" finished-at="2016-02-19T13:41:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB_42_004 - Username is  empty]]>
+            </line>
+            <line>
+              <![CDATA[call driver]]>
+            </line>
+            <line>
+              <![CDATA[type valid user and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Logout button]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+            </line>
+            <line>
+              <![CDATA[type a valid pasword]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Login button]]>
+            </line>
+            <line>
+              <![CDATA[validate that username is required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_42_004 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="After" is-config="true" duration-ms="1443" started-at="2016-02-19T13:41:34Z" finished-at="2016-02-19T13:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="Before" is-config="true" duration-ms="2499" started-at="2016-02-19T13:41:36Z" finished-at="2016-02-19T13:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_42_005()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="TC_ONB_42_005" duration-ms="36591" started-at="2016-02-19T13:41:38Z" finished-at="2016-02-19T13:42:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB_42_005 - Password is  empty]]>
+            </line>
+            <line>
+              <![CDATA[call driver]]>
+            </line>
+            <line>
+              <![CDATA[type valid user and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Logout button]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+            </line>
+            <line>
+              <![CDATA[type a valid username]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Login button]]>
+            </line>
+            <line>
+              <![CDATA[validate that Password is required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_42_005 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="After" is-config="true" duration-ms="1628" started-at="2016-02-19T13:42:15Z" finished-at="2016-02-19T13:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="Before" is-config="true" duration-ms="2438" started-at="2016-02-19T13:42:17Z" finished-at="2016-02-19T13:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_42_006()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="TC_ONB_42_006" duration-ms="33174" started-at="2016-02-19T13:42:19Z" finished-at="2016-02-19T13:42:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB_42_006 - Username and Password  are not valid]]>
+            </line>
+            <line>
+              <![CDATA[call driver]]>
+            </line>
+            <line>
+              <![CDATA[type valid user and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Logout button]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+            </line>
+            <line>
+              <![CDATA[type a not valid username and not valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Login button]]>
+            </line>
+            <line>
+              <![CDATA[validate that a message is shown: We were not able to recognize your username/password.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_42_006 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="After" is-config="true" duration-ms="2491" started-at="2016-02-19T13:42:52Z" finished-at="2016-02-19T13:42:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="Before" is-config="true" duration-ms="3016" started-at="2016-02-19T13:42:55Z" finished-at="2016-02-19T13:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_42_007()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="TC_ONB_42_007" duration-ms="33384" started-at="2016-02-19T13:42:58Z" finished-at="2016-02-19T13:43:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB_42_007 - Username valid -Password  not valid]]>
+            </line>
+            <line>
+              <![CDATA[call driver]]>
+            </line>
+            <line>
+              <![CDATA[type valid user and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Logout button]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+            </line>
+            <line>
+              <![CDATA[type a valid username and not valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Login button]]>
+            </line>
+            <line>
+              <![CDATA[validate that a message is shown: We were not able to recognize your username/password.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_42_007 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="After" is-config="true" duration-ms="1859" started-at="2016-02-19T13:43:31Z" finished-at="2016-02-19T13:43:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="Before" is-config="true" duration-ms="3952" started-at="2016-02-19T13:43:33Z" finished-at="2016-02-19T13:43:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_42_008()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="TC_ONB_42_008" duration-ms="34036" started-at="2016-02-19T13:43:37Z" finished-at="2016-02-19T13:44:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB_42_008 - Username not valid -Password  valid]]>
+            </line>
+            <line>
+              <![CDATA[call driver]]>
+            </line>
+            <line>
+              <![CDATA[type valid user and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Logout button]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+            </line>
+            <line>
+              <![CDATA[type a not valid username and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Login button]]>
+            </line>
+            <line>
+              <![CDATA[validate that a message is shown: We were not able to recognize your username/password.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_42_008 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="After" is-config="true" duration-ms="1910" started-at="2016-02-19T13:44:11Z" finished-at="2016-02-19T13:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="Before" is-config="true" duration-ms="1931" started-at="2016-02-19T13:44:13Z" finished-at="2016-02-19T13:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_42_009()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="TC_ONB_42_009" duration-ms="33018" started-at="2016-02-19T13:44:15Z" finished-at="2016-02-19T13:44:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB_42_009 - Forgot Username]]>
+            </line>
+            <line>
+              <![CDATA[call driver]]>
+            </line>
+            <line>
+              <![CDATA[type valid user and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Logout button]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Forgot Username link]]>
+            </line>
+            <line>
+              <![CDATA[validate that ser navigates to Forgot Username page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_42_009 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="After" is-config="true" duration-ms="1581" started-at="2016-02-19T13:44:48Z" finished-at="2016-02-19T13:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="Before" is-config="true" duration-ms="2105" started-at="2016-02-19T13:44:49Z" finished-at="2016-02-19T13:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_42_010()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="TC_ONB_42_010" duration-ms="31180" started-at="2016-02-19T13:44:51Z" finished-at="2016-02-19T13:45:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB_42_010 - Forgot Password]]>
+            </line>
+            <line>
+              <![CDATA[call driver]]>
+            </line>
+            <line>
+              <![CDATA[type valid user and valid password]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Logout button]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout:WE HAVE SUCCESSFULLY LOGGED YOU OUT]]>
+            </line>
+            <line>
+              <![CDATA[Clic on Forgot Password link]]>
+            </line>
+            <line>
+              <![CDATA[validate that ser navigates to Forgot Password page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_42_010 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution@7f690630]" name="After" is-config="true" duration-ms="1388" started-at="2016-02-19T13:45:23Z" finished-at="2016-02-19T13:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.ONB_42_Chrome_Execution -->
+    </test> <!-- ONB-42 Employer logs out of the Onboarding Employer Portal  -->
+    <test name="ONB-38 Employer logs into the Onboarding Employer Portal-InternetExplorer_Execution" duration-ms="452940" started-at="2016-02-19T18:38:43Z" finished-at="2016-02-19T18:46:16Z">
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution">
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="Before" is-config="true" duration-ms="7445" started-at="2016-02-19T13:38:43Z" finished-at="2016-02-19T13:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_001()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="TC_ONB_38_001" duration-ms="18955" started-at="2016-02-19T13:38:50Z" finished-at="2016-02-19T13:39:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-001 - Username and password are  empty]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:Username is required]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:Password is required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_001 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="After" is-config="true" duration-ms="2219" started-at="2016-02-19T13:39:09Z" finished-at="2016-02-19T13:39:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="Before" is-config="true" duration-ms="2965" started-at="2016-02-19T13:39:11Z" finished-at="2016-02-19T13:39:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_002()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="TC_ONB_38_002" duration-ms="44980" started-at="2016-02-19T13:39:14Z" finished-at="2016-02-19T13:39:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-002 - Username is  empty]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso  password]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:Username is required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_002 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="After" is-config="true" duration-ms="1585" started-at="2016-02-19T13:39:59Z" finished-at="2016-02-19T13:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="Before" is-config="true" duration-ms="3367" started-at="2016-02-19T13:40:01Z" finished-at="2016-02-19T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_003()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="TC_ONB_38_003" duration-ms="44295" started-at="2016-02-19T13:40:04Z" finished-at="2016-02-19T13:40:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-003 - Password is empty]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso  Username]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:Password is required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_003 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="After" is-config="true" duration-ms="1484" started-at="2016-02-19T13:40:49Z" finished-at="2016-02-19T13:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="Before" is-config="true" duration-ms="2187" started-at="2016-02-19T13:40:50Z" finished-at="2016-02-19T13:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_004()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="TC_ONB_38_004" duration-ms="62589" started-at="2016-02-19T13:40:52Z" finished-at="2016-02-19T13:41:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-004 - Username and Password  are not valid]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso del user y password]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_004 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="After" is-config="true" duration-ms="1598" started-at="2016-02-19T13:41:55Z" finished-at="2016-02-19T13:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="Before" is-config="true" duration-ms="3178" started-at="2016-02-19T13:41:57Z" finished-at="2016-02-19T13:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_005()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="TC_ONB_38_005" duration-ms="64126" started-at="2016-02-19T13:42:00Z" finished-at="2016-02-19T13:43:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-005 - Username valid -Password  not valid]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso del user y password]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_005 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="After" is-config="true" duration-ms="1332" started-at="2016-02-19T13:43:04Z" finished-at="2016-02-19T13:43:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="Before" is-config="true" duration-ms="2624" started-at="2016-02-19T13:43:05Z" finished-at="2016-02-19T13:43:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_006()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="TC_ONB_38_006" duration-ms="74741" started-at="2016-02-19T13:43:08Z" finished-at="2016-02-19T13:44:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-006 - Username not valid -Password  valid]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso del user y password]]>
+            </line>
+            <line>
+              <![CDATA[validate actual message vs expected:We were not able to recognize your username/password.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_006 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="After" is-config="true" duration-ms="1189" started-at="2016-02-19T13:44:23Z" finished-at="2016-02-19T13:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="Before" is-config="true" duration-ms="2813" started-at="2016-02-19T13:44:24Z" finished-at="2016-02-19T13:44:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_007()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="TC_ONB_38_007" duration-ms="70823" started-at="2016-02-19T13:44:27Z" finished-at="2016-02-19T13:45:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-007 - Username valid -Password  valid]]>
+            </line>
+            <line>
+              <![CDATA[Llamada al driver]]>
+            </line>
+            <line>
+              <![CDATA[Ingreso del user y password]]>
+            </line>
+            <line>
+              <![CDATA[validate that username and role is shown]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate message header after logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_007 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="After" is-config="true" duration-ms="1192" started-at="2016-02-19T13:45:37Z" finished-at="2016-02-19T13:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="Before" is-config="true" duration-ms="2559" started-at="2016-02-19T13:45:39Z" finished-at="2016-02-19T13:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="FAIL" signature="TC_ONB_38_008()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="TC_ONB_38_008" duration-ms="17199" started-at="2016-02-19T13:45:41Z" finished-at="2016-02-19T13:45:58Z">
+          <exception class="junit.framework.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<FORGOT USERNAME> but was:<LOGIN>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[junit.framework.ComparisonFailure: expected:<FORGOT USERNAME> but was:<LOGIN>
+	at junit.framework.Assert.assertEquals(Assert.java:81)
+	at junit.framework.Assert.assertEquals(Assert.java:87)
+	at com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution.TC_ONB_38_008(ONB_38_InternetExplorer_Execution.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:38)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:391)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+]]>
+            </full-stacktrace>
+          </exception> <!-- junit.framework.ComparisonFailure -->
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-008 - Forgot Username]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validate header message: Expected FORGOT USERNAME]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_008 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="After" is-config="true" duration-ms="1306" started-at="2016-02-19T13:45:58Z" finished-at="2016-02-19T13:46:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="Before" is-config="true" duration-ms="2949" started-at="2016-02-19T13:46:00Z" finished-at="2016-02-19T13:46:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_38_009()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="TC_ONB_38_009" duration-ms="12025" started-at="2016-02-19T13:46:03Z" finished-at="2016-02-19T13:46:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-38-009 - Forgot Password]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[validate header message: Expected FORGOT USERNAME]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_38_009 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution@59a6e353]" name="After" is-config="true" duration-ms="1161" started-at="2016-02-19T13:46:15Z" finished-at="2016-02-19T13:46:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_InternetExplorer_Execution -->
+    </test> <!-- ONB-38 Employer logs into the Onboarding Employer Portal-InternetExplorer_Execution -->
+    <test name="ONB-158 System logs Employer out of Onboarding Employer Portal after timeout " duration-ms="236552" started-at="2016-02-19T18:43:14Z" finished-at="2016-02-19T18:47:10Z">
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_158_Chrome_Execution">
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_158_Chrome_Execution@22f71333]" name="Before" is-config="true" duration-ms="4088" started-at="2016-02-19T13:43:14Z" finished-at="2016-02-19T13:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="FAIL" signature="TC_ONB_158_001()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_158_Chrome_Execution@22f71333]" name="TC_ONB_158_001" duration-ms="231112" started-at="2016-02-19T13:43:18Z" finished-at="2016-02-19T13:47:09Z">
+          <exception class="junit.framework.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<...v...> but was:<... ...>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[junit.framework.ComparisonFailure: expected:<...v...> but was:<... ...>
+	at junit.framework.Assert.assertEquals(Assert.java:81)
+	at junit.framework.Assert.assertEquals(Assert.java:87)
+	at com.maestrohealth.Onboarding.tests_sprint_1.ONB_158_Chrome_Execution.TC_ONB_158_001(ONB_158_Chrome_Execution.java:61)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:659)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:845)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1153)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:38)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:391)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+]]>
+            </full-stacktrace>
+          </exception> <!-- junit.framework.ComparisonFailure -->
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB_158_001 - Verify that  system logs employer out  of Onboarding Employer Portal after timeout]]>
+            </line>
+            <line>
+              <![CDATA[call driver]]>
+            </line>
+            <line>
+              <![CDATA[type valid user and valid password]]>
+            </line>
+            <line>
+              <![CDATA[validate that username and role is shown]]>
+            </line>
+            <line>
+              <![CDATA[Return to login page]]>
+            </line>
+            <line>
+              <![CDATA[validate messages header after logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_158_001 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_158_Chrome_Execution@22f71333]" name="After" is-config="true" duration-ms="1350" started-at="2016-02-19T13:47:09Z" finished-at="2016-02-19T13:47:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.ONB_158_Chrome_Execution -->
+    </test> <!-- ONB-158 System logs Employer out of Onboarding Employer Portal after timeout  -->
+    <test name="ONB-37 Employer creates user account for the Onboarding Employer Portal " duration-ms="744937" started-at="2016-02-19T18:38:43Z" finished-at="2016-02-19T18:51:08Z">
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution">
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="7052" started-at="2016-02-19T13:38:43Z" finished-at="2016-02-19T13:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37" duration-ms="14984" started-at="2016-02-19T13:38:50Z" finished-at="2016-02-19T13:39:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37 - All fields requireds]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1764" started-at="2016-02-19T13:39:05Z" finished-at="2016-02-19T13:39:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="4576" started-at="2016-02-19T13:39:07Z" finished-at="2016-02-19T13:39:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_001()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_001" duration-ms="16219" started-at="2016-02-19T13:39:11Z" finished-at="2016-02-19T13:39:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-001 - Welcome Page is available]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_001 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1376" started-at="2016-02-19T13:39:27Z" finished-at="2016-02-19T13:39:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="3799" started-at="2016-02-19T13:39:29Z" finished-at="2016-02-19T13:39:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_002()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_002" duration-ms="21227" started-at="2016-02-19T13:39:33Z" finished-at="2016-02-19T13:39:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-002 - Verify that the Placeholder Enter a username is shown]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that the Placeholder Enter a username is shown]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_002 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="2110" started-at="2016-02-19T13:39:54Z" finished-at="2016-02-19T13:39:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="3168" started-at="2016-02-19T13:39:56Z" finished-at="2016-02-19T13:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_003()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_003" duration-ms="15570" started-at="2016-02-19T13:39:59Z" finished-at="2016-02-19T13:40:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-003 - Verify that the Placeholder Create a Password is shown]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that the Placeholder Create a Password is shown]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_003 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1455" started-at="2016-02-19T13:40:15Z" finished-at="2016-02-19T13:40:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="6510" started-at="2016-02-19T13:40:16Z" finished-at="2016-02-19T13:40:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_004()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_004" duration-ms="19219" started-at="2016-02-19T13:40:23Z" finished-at="2016-02-19T13:40:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-007 - Verify that the Placeholder Re-Create a Password is shown]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that the Placeholder Create a Password is shown]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_004 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1273" started-at="2016-02-19T13:40:42Z" finished-at="2016-02-19T13:40:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="3381" started-at="2016-02-19T13:40:43Z" finished-at="2016-02-19T13:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_005()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_005" duration-ms="15610" started-at="2016-02-19T13:40:46Z" finished-at="2016-02-19T13:41:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-005 - Verify that the Button called “next” is shown]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that the Placeholder Create a Password is shown]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_005 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1565" started-at="2016-02-19T13:41:02Z" finished-at="2016-02-19T13:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="3586" started-at="2016-02-19T13:41:04Z" finished-at="2016-02-19T13:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_007()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_007" duration-ms="14814" started-at="2016-02-19T13:41:07Z" finished-at="2016-02-19T13:41:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-007 - Verify that no more than 75 characters will be allow into the Username Field]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Password entered is 75 Characters]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_007 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1238" started-at="2016-02-19T13:41:22Z" finished-at="2016-02-19T13:41:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2949" started-at="2016-02-19T13:41:23Z" finished-at="2016-02-19T13:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_008()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_008" duration-ms="19126" started-at="2016-02-19T13:41:26Z" finished-at="2016-02-19T13:41:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-008 - Validate that Field Username will be required.]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Username will be required]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_008 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1148" started-at="2016-02-19T13:41:45Z" finished-at="2016-02-19T13:41:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2553" started-at="2016-02-19T13:41:47Z" finished-at="2016-02-19T13:41:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_009()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_009" duration-ms="15532" started-at="2016-02-19T13:41:49Z" finished-at="2016-02-19T13:42:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-009 - Verify that no more than 75 characters will be allow into the password Field]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Password entered is 75 Characters]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_009 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1968" started-at="2016-02-19T13:42:05Z" finished-at="2016-02-19T13:42:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2186" started-at="2016-02-19T13:42:07Z" finished-at="2016-02-19T13:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_010()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_010" duration-ms="15492" started-at="2016-02-19T13:42:09Z" finished-at="2016-02-19T13:42:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-010 - Validate that Field Password will be required.]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_010 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1508" started-at="2016-02-19T13:42:24Z" finished-at="2016-02-19T13:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="3022" started-at="2016-02-19T13:42:26Z" finished-at="2016-02-19T13:42:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_011()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_011" duration-ms="16182" started-at="2016-02-19T13:42:29Z" finished-at="2016-02-19T13:42:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-011 - Verify that no more than 75 characters will be allow into the Re enter Password Field]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Re enter Password Field is 75 characters]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_011 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1219" started-at="2016-02-19T13:42:45Z" finished-at="2016-02-19T13:42:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="3674" started-at="2016-02-19T13:42:46Z" finished-at="2016-02-19T13:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_012()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_012" duration-ms="15035" started-at="2016-02-19T13:42:50Z" finished-at="2016-02-19T13:43:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-012 - Validate that Field Re enter Password will be required.]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Validate that Field Re enter Password will be required.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_012 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1925" started-at="2016-02-19T13:43:05Z" finished-at="2016-02-19T13:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="3584" started-at="2016-02-19T13:43:07Z" finished-at="2016-02-19T13:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_013()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_013" duration-ms="13734" started-at="2016-02-19T13:43:10Z" finished-at="2016-02-19T13:43:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-013 - Verify that no more than 20 characters will be allow into the Mobile Phone Field]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Verify that no more than 20 characters will be allow into the Mobile Phone Field]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_013 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1839" started-at="2016-02-19T13:43:24Z" finished-at="2016-02-19T13:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2276" started-at="2016-02-19T13:43:26Z" finished-at="2016-02-19T13:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_014()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_014" duration-ms="19552" started-at="2016-02-19T13:43:28Z" finished-at="2016-02-19T13:43:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-014 - Validate that Field Mobile Phone will be required.]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Validate that Field Mobile Phone will be required.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_014 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="2262" started-at="2016-02-19T13:43:48Z" finished-at="2016-02-19T13:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2673" started-at="2016-02-19T13:43:50Z" finished-at="2016-02-19T13:43:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_015()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_015" duration-ms="15594" started-at="2016-02-19T13:43:53Z" finished-at="2016-02-19T13:44:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-015 - Verify that only numbers are allow into the field Mobile Phone ]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Verify that only numbers are allow into the field Mobile Phone ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_015 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="2009" started-at="2016-02-19T13:44:08Z" finished-at="2016-02-19T13:44:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2281" started-at="2016-02-19T13:44:10Z" finished-at="2016-02-19T13:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_016()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_016" duration-ms="18913" started-at="2016-02-19T13:44:13Z" finished-at="2016-02-19T13:44:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-016 - Validate that error message like “ Username is not unique, please update” will be shown when the username already exits ]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Validate that error message like Username is not unique, please update will be shown when the username already exits]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_016 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1852" started-at="2016-02-19T13:44:32Z" finished-at="2016-02-19T13:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="3358" started-at="2016-02-19T13:44:33Z" finished-at="2016-02-19T13:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_018()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_018" duration-ms="12931" started-at="2016-02-19T13:44:37Z" finished-at="2016-02-19T13:44:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-018 - Validate that error message like “Confirmation Password is required” will be shown when the Re Enter Password field is empty]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Validate that error message Confirmation Password is required is shown]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_018 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1955" started-at="2016-02-19T13:44:50Z" finished-at="2016-02-19T13:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2211" started-at="2016-02-19T13:44:52Z" finished-at="2016-02-19T13:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_019()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_019" duration-ms="12982" started-at="2016-02-19T13:44:54Z" finished-at="2016-02-19T13:45:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-019 - Validate that error message like “Mobile phone is required” will be shown when the Mobile Phone field is empty]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Validate that error message Confirmation Password is required is shown]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_019 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1524" started-at="2016-02-19T13:45:07Z" finished-at="2016-02-19T13:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2215" started-at="2016-02-19T13:45:08Z" finished-at="2016-02-19T13:45:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_021()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_021" duration-ms="20205" started-at="2016-02-19T13:45:11Z" finished-at="2016-02-19T13:45:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-021 - Verify that username can't be the same to the Email Address and will display this error message: “The username cannot be the same as your email address, please update”]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_021 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1444" started-at="2016-02-19T13:45:31Z" finished-at="2016-02-19T13:45:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="1616" started-at="2016-02-19T13:45:32Z" finished-at="2016-02-19T13:45:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_022()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_022" duration-ms="21369" started-at="2016-02-19T13:45:34Z" finished-at="2016-02-19T13:45:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-022 - Verify that system will display a error message when the password have less than 8 characters long]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_022 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1400" started-at="2016-02-19T13:45:55Z" finished-at="2016-02-19T13:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="1907" started-at="2016-02-19T13:45:57Z" finished-at="2016-02-19T13:45:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_023()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_023" duration-ms="23428" started-at="2016-02-19T13:45:59Z" finished-at="2016-02-19T13:46:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-023 - Verify that password don't be the same as the username who was written diplaying a error message]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Verify that password don't be the same as the username who was written diplaying a error message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_023 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1508" started-at="2016-02-19T13:46:22Z" finished-at="2016-02-19T13:46:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2150" started-at="2016-02-19T13:46:23Z" finished-at="2016-02-19T13:46:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_024()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_024" duration-ms="21811" started-at="2016-02-19T13:46:26Z" finished-at="2016-02-19T13:46:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-024 - Verify that error message will be displayed when no numbers are into the password ]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Verify that error message will be displayed when no numbers are into the password]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_024 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1373" started-at="2016-02-19T13:46:47Z" finished-at="2016-02-19T13:46:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2202" started-at="2016-02-19T13:46:49Z" finished-at="2016-02-19T13:46:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_025()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_025" duration-ms="21858" started-at="2016-02-19T13:46:51Z" finished-at="2016-02-19T13:47:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-025 -Verify  that error message will be displayed when only one letter has been written within the password ]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Verify that Password must contain one symbol]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_025 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1373" started-at="2016-02-19T13:47:13Z" finished-at="2016-02-19T13:47:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="1634" started-at="2016-02-19T13:47:14Z" finished-at="2016-02-19T13:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_026()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_026" duration-ms="22238" started-at="2016-02-19T13:47:16Z" finished-at="2016-02-19T13:47:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-026 - Verify that error message will be displayed when only one Upper Case letter has been written without any lower case within the password]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Verify that error message will be displayed when only one Upper Case letter has been written without any lower case within the password]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_026 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1328" started-at="2016-02-19T13:47:38Z" finished-at="2016-02-19T13:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="1822" started-at="2016-02-19T13:47:39Z" finished-at="2016-02-19T13:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_027()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_027" duration-ms="22077" started-at="2016-02-19T13:47:41Z" finished-at="2016-02-19T13:48:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-027 - Verify  that error message will be displayed when only one Lower Case letter has been written without any Upper case within the password]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Verify  that error message will be displayed when only one Lower Case letter has been written without any Upper case within the password]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_027 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1380" started-at="2016-02-19T13:48:03Z" finished-at="2016-02-19T13:48:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2163" started-at="2016-02-19T13:48:05Z" finished-at="2016-02-19T13:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_028()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_028" duration-ms="21910" started-at="2016-02-19T13:48:07Z" finished-at="2016-02-19T13:48:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-028 - Verify  that error message will be displayed when no special characters was written within the password field.]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Verify that error message will be displayed when no special characters was written within the password field.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_028 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1361" started-at="2016-02-19T13:48:29Z" finished-at="2016-02-19T13:48:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2153" started-at="2016-02-19T13:48:30Z" finished-at="2016-02-19T13:48:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_029()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_029" duration-ms="17453" started-at="2016-02-19T13:48:32Z" finished-at="2016-02-19T13:48:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-029 - Verify when “Password” and “re-enter password” aren't the same, system will display a error message like Passwords do not match]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Verify when “Password” and “re-enter password” aren't the same, system will display a error message like Passwords do not match]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_029 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1346" started-at="2016-02-19T13:48:50Z" finished-at="2016-02-19T13:48:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2117" started-at="2016-02-19T13:48:51Z" finished-at="2016-02-19T13:48:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_030()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_030" duration-ms="16889" started-at="2016-02-19T13:48:53Z" finished-at="2016-02-19T13:49:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-030 - Verify that after click on the Cancel button all fields will be cleared]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Verify that after click on the Cancel button all fields will be cleared]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_030 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1366" started-at="2016-02-19T13:49:10Z" finished-at="2016-02-19T13:49:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2128" started-at="2016-02-19T13:49:11Z" finished-at="2016-02-19T13:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_032()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_032" duration-ms="15604" started-at="2016-02-19T13:49:14Z" finished-at="2016-02-19T13:49:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-032 - Verify that Next button will validate the number associated to the user account and display a error message if it's different]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Assert that Verify that Next button will validate the number associated to the user account and display a error message if it's different]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_032 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1362" started-at="2016-02-19T13:49:29Z" finished-at="2016-02-19T13:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="1700" started-at="2016-02-19T13:49:31Z" finished-at="2016-02-19T13:49:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_033()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_033" duration-ms="22129" started-at="2016-02-19T13:49:32Z" finished-at="2016-02-19T13:49:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-033 - Verify that terms and conditions is displaying when the mobile number match with the user account]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Verify that terms and conditions is displaying when the mobile number match with the user account]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_033 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1348" started-at="2016-02-19T13:49:54Z" finished-at="2016-02-19T13:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="1597" started-at="2016-02-19T13:49:56Z" finished-at="2016-02-19T13:49:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_035()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_035" duration-ms="20259" started-at="2016-02-19T13:49:57Z" finished-at="2016-02-19T13:50:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-035 - Verify that Agree button remains disabled until terms and conditions will be check]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Verify that I agree button is not selected after try to clic it]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_035 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1339" started-at="2016-02-19T13:50:18Z" finished-at="2016-02-19T13:50:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2146" started-at="2016-02-19T13:50:19Z" finished-at="2016-02-19T13:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_036()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_036" duration-ms="21369" started-at="2016-02-19T13:50:21Z" finished-at="2016-02-19T13:50:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-036 - Verify that print terms and conditions is available]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+            <line>
+              <![CDATA[Verify that print terms and conditions is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_036 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1573" started-at="2016-02-19T13:50:42Z" finished-at="2016-02-19T13:50:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method status="PASS" signature="Before()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="Before" is-config="true" duration-ms="2153" started-at="2016-02-19T13:50:44Z" finished-at="2016-02-19T13:50:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="TC_ONB_37_038()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="TC_ONB_37_038" duration-ms="20191" started-at="2016-02-19T13:50:46Z" finished-at="2016-02-19T13:51:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TC_ONB-37-038 - Verify that System will navigate user to Onboarding Employer Portal Homepage]]>
+            </line>
+            <line>
+              <![CDATA[Call driver]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ONB_37_038 -->
+        <test-method status="PASS" signature="After()[pri:0, instance:com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution@7e0babb1]" name="After" is-config="true" duration-ms="1354" started-at="2016-02-19T13:51:06Z" finished-at="2016-02-19T13:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.ONB_37_Chrome_Execution -->
+    </test> <!-- ONB-37 Employer creates user account for the Onboarding Employer Portal  -->
+  </suite> <!-- Sprint_1 -->
+</testng-results>

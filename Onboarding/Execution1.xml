@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sprint_1" verbose="1" parallel="methods" thread-count="3">
+	<test name="Login Process Employee" >
+		<classes>
+			<class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_40_Firefox_Execution" />
+		</classes>
+	</test>
+</suite>

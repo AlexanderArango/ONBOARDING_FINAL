@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.Pilot3_Chrome">
+        <methods>
+          <include name="After"/>
+          <include name="TC_ONB_42_010"/>
+          <include name="Before"/>
+        </methods>
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.Pilot3_Chrome -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

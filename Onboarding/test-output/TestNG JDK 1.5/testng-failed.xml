@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [TestNG JDK 1.5]">
+  <test name="Grupo 1(failed)">
+    <classes>
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.Pilot">
+        <methods>
+          <include name="Before"/>
+          <include name="After"/>
+        </methods>
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.Pilot -->
+      <class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution">
+        <methods>
+          <include name="Before"/>
+          <include name="TC_ONB_38_001"/>
+          <include name="After"/>
+        </methods>
+      </class> <!-- com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution -->
+    </classes>
+  </test> <!-- Grupo 1(failed) -->
+</suite> <!-- Failed suite [TestNG JDK 1.5] -->

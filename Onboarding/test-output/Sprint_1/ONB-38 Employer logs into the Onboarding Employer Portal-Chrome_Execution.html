@@ -1,0 +1,214 @@
+<html>
+<head>
+<title>TestNG:  ONB-38 Employer logs into the Onboarding Employer Portal-Chrome_Execution</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>ONB-38 Employer logs into the Onboarding Employer Portal-Chrome_Execution</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>9/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Feb 19 13:38:43 COT 2016</td>
+</tr>
+<tr><td>Total time:</td><td>271 seconds (271014 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution.TC_ONB_38_001()'><b>TC_ONB_38_001</b><br>Test class: com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution<br/>
+<a href="#Output-424138922" onClick='toggleBox("Output-424138922", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-424138922" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-424138922">
+TC_ONB-38-001 - Username and password are  empty<br/>
+Llamada al driver<br/>
+validate actual message vs expected:Username is required<br/>
+validate actual message vs expected:Password is required<br/>
+</div>
+</td>
+<td></td>
+<td>18</td>
+<td>com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e</td></tr>
+<tr>
+<td title='com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution.TC_ONB_38_002()'><b>TC_ONB_38_002</b><br>Test class: com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution<br/>
+<a href="#Output-1972021634" onClick='toggleBox("Output-1972021634", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1972021634" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1972021634">
+TC_ONB-38-002 - Username is  empty<br/>
+Llamada al driver<br/>
+Ingreso  password<br/>
+validate actual message vs expected:Username is required<br/>
+</div>
+</td>
+<td></td>
+<td>25</td>
+<td>com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e</td></tr>
+<tr>
+<td title='com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution.TC_ONB_38_003()'><b>TC_ONB_38_003</b><br>Test class: com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution<br/>
+<a href="#Output-1772980273" onClick='toggleBox("Output-1772980273", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1772980273" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1772980273">
+TC_ONB-38-003 - Password is empty<br/>
+Llamada al driver<br/>
+Ingreso  Username<br/>
+validate actual message vs expected:Password is required<br/>
+</div>
+</td>
+<td></td>
+<td>25</td>
+<td>com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e</td></tr>
+<tr>
+<td title='com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution.TC_ONB_38_004()'><b>TC_ONB_38_004</b><br>Test class: com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution<br/>
+<a href="#Output-849715612" onClick='toggleBox("Output-849715612", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-849715612" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-849715612">
+TC_ONB-38-004 - Username and Password  are not valid<br/>
+Llamada al driver<br/>
+Ingreso del user y password<br/>
+validate actual message vs expected:We were not able to recognize your username/password.<br/>
+</div>
+</td>
+<td></td>
+<td>29</td>
+<td>com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e</td></tr>
+<tr>
+<td title='com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution.TC_ONB_38_005()'><b>TC_ONB_38_005</b><br>Test class: com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution<br/>
+<a href="#Output-1988590891" onClick='toggleBox("Output-1988590891", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1988590891" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1988590891">
+TC_ONB-38-005 - Username valid -Password  not valid<br/>
+Llamada al driver<br/>
+Ingreso del user y password<br/>
+validate actual message vs expected:We were not able to recognize your username/password.<br/>
+</div>
+</td>
+<td></td>
+<td>23</td>
+<td>com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e</td></tr>
+<tr>
+<td title='com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution.TC_ONB_38_006()'><b>TC_ONB_38_006</b><br>Test class: com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution<br/>
+<a href="#Output-1371647976" onClick='toggleBox("Output-1371647976", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1371647976" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1371647976">
+TC_ONB-38-006 - Username not valid -Password  valid<br/>
+Llamada al driver<br/>
+Ingreso del user y password<br/>
+validate actual message vs expected:We were not able to recognize your username/password.<br/>
+</div>
+</td>
+<td></td>
+<td>26</td>
+<td>com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e</td></tr>
+<tr>
+<td title='com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution.TC_ONB_38_007()'><b>TC_ONB_38_007</b><br>Test class: com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution<br/>
+<a href="#Output-2012812378" onClick='toggleBox("Output-2012812378", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2012812378" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2012812378">
+TC_ONB-38-007 - Username valid -Password  valid<br/>
+Llamada al driver<br/>
+Ingreso del user y password<br/>
+validate that username and role is shown<br/>
+Return to login page<br/>
+validate message header after logout<br/>
+</div>
+</td>
+<td></td>
+<td>29</td>
+<td>com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e</td></tr>
+<tr>
+<td title='com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution.TC_ONB_38_008()'><b>TC_ONB_38_008</b><br>Test class: com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution<br/>
+<a href="#Output-1200687262" onClick='toggleBox("Output-1200687262", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1200687262" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1200687262">
+TC_ONB-38-008 - Forgot Username<br/>
+Call driver<br/>
+validate header message: Expected FORGOT USERNAME<br/>
+</div>
+</td>
+<td></td>
+<td>20</td>
+<td>com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e</td></tr>
+<tr>
+<td title='com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution.TC_ONB_38_009()'><b>TC_ONB_38_009</b><br>Test class: com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution<br/>
+<a href="#Output-1270382225" onClick='toggleBox("Output-1270382225", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1270382225" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1270382225">
+TC_ONB-38-009 - Forgot Password<br/>
+Call driver<br/>
+validate header message: Expected FORGOT USERNAME<br/>
+</div>
+</td>
+<td></td>
+<td>16</td>
+<td>com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Chrome_Execution@340f438e</td></tr>
+</table><p>
+</body>
+</html>
