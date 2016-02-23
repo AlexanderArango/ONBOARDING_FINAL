@@ -46,7 +46,7 @@ public class ONB_38_Firefox_Execution {
 		 Thread.sleep(5000);
 		 String valor = resultado_log.get_message_response();
 		 Reporter.log("validate actual message vs expected:We were not able to recognize your username/password.");
-		 Assert.assertEquals(valor.substring(0, 53),"We were not able to recognize your username/password.");
+		 Assert.assertEquals(valor.substring(0, 53),"We were not able to recognize your username/passwor");
 	}
 	
 }
