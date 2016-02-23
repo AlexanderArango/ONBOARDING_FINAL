@@ -5,25 +5,25 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class Login {
-	@FindBy(xpath="//body//div/span[1]")
+	@FindBy(xpath=".//*[@id='main-login-container']/div[1]/div/span[4]")
 	private WebElement message_header;
 	
 	
-	@FindBy(id="input_0")
+	@FindBy(xpath=".//*[@id='main-login-container']/div[1]/div/form/section/fieldset[1]/input")
 	private WebElement username;
 	
-	@FindBy(id="input_1")
+	@FindBy(xpath=".//*[@id='main-login-container']/div[1]/div/form/section/fieldset[2]/input")
 	private WebElement password;
 	
-	@FindBy(xpath="//body//form/div[1]/md-input-container/div[1]/a")
+	@FindBy(xpath=".//*[@id='main-login-container']/div[1]/div/form/section/fieldset[1]/div/a")
 	private WebElement forgot_username;
 	
 	
-	@FindBy(xpath="//body//form/div[2]/md-input-container/div[1]/a")
+	@FindBy(xpath=".//*[@id='main-login-container']/div[1]/div/form/section/fieldset[2]/div/a")
 	private WebElement forgot_password;
 	
 	
-	@FindBy(xpath="//body//form/div[3]/button")
+	@FindBy(xpath=".//*[@id='main-login-container']/div[1]/div/form/div/button")
 	private WebElement submitButton;
 	
 	public void Go(WebDriver driver){
