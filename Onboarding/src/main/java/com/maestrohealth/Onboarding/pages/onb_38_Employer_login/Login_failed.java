@@ -6,10 +6,10 @@ import org.openqa.selenium.support.FindBy;
 
 public class Login_failed {
 	
-	@FindBy(xpath=".//*[@id='main-login-container']/div[1]/div/form/section/fieldset[1]/input")
+	@FindBy(xpath="//form//section/fieldset[1]/input")
 	private WebElement username;
 	
-	@FindBy(xpath=".//*[@id='main-login-container']/div[1]/div/form/section/fieldset[2]/input")
+	@FindBy(xpath="//form//section/fieldset[2]/input")
 	private WebElement password;
 	
 	
@@ -17,11 +17,11 @@ public class Login_failed {
 	private WebElement message_response;//Message is shown when the Username and Password are not empty but they are not correct.
 	
 	//Message is shown when the Username is empty.
-	@FindBy(xpath=".//*[@id='main-login-container']/div[1]/div/form/section/fieldset[1]/div[2]/div")
+	@FindBy(xpath="//form//section/fieldset[1]/div[2]/div")
 	private WebElement username_message_response;
 	
 	//Message is shown when the Password is empty.
-	@FindBy(xpath=".//*[@id='main-login-container']/div[1]/div/form/section/fieldset[2]/div[2]/div")
+	@FindBy(xpath="//form//section/fieldset[2]/div[2]/div")
 	private WebElement password_message_response;
 	
 	
