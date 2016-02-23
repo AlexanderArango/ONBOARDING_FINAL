@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sprint_1" verbose="1" parallel="tests" thread-count="6">
+	
+	<test name="ONB-38 Employer logs into the Onboarding Employer Portal - Firefox_Execution" >
+		<classes>
+			<class name="com.maestrohealth.Onboarding.tests_sprint_1.ONB_38_Firefox_Execution" />
+		</classes>
+	</test>
+	
+</suite>
